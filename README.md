@@ -7,3 +7,8 @@ Tools Used:
 - Pandas 
 - SciKit Learn
 
+### A Note on the Data
+This is a small data set collected by personally visiting coffeehouses. The attributes included in this model are:
+- Amenities: Things like "Outdoor Seating" or "Live Music"
+- Atmosphere: Words like "Cozy" or "European"
+- What the coffeehouse is good for: Things like "Reading" or "Working"
